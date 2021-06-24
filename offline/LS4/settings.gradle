@@ -1,0 +1,2 @@
+rootProject.name = "LS4"
+include ':app'
